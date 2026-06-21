@@ -90,7 +90,7 @@ The SQL phase included:
 ![SQL](/images/SQL_2.png)
 
 # Dashboard
-![SQL](/images/Dashboard_Powwer_Bi.png)
+![SQL](/images/Dashboard_Power_Bi.png)
 
 
 ## Author
