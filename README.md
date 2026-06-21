@@ -79,10 +79,18 @@ The SQL phase included:
 
 ## Dashboard Preview
 
-# 
-![SQL](End-to-End-Sales-Analytics-SQL-Power-BI
-/images/Basic_sql.png)
+# Coding
+![SQL](/images/Basic_sql.png)
+![SQL](/images/Intermediate_sql.png)
+![SQL](/images/Advanced_sql.png)
+![SQL](/images/Advanced_sql_2.png)
 
+# SQL
+![SQL](/images/SQL_1.png)
+![SQL](/images/SQL_2.png)
+
+# Dashboard
+![SQL](/images/Dashboard_Powwer_Bi.png)
 
 
 ## Author
